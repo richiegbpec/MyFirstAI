@@ -1,4 +1,4 @@
-# MyFirstAI
+## MyFirstAI
 ed Baker Dress Price Comparison
 ## Summary
 This project aims to develop an AI-driven tool that compares the prices of Ted Baker dresses among various European online retailers. By leveraging web scraping and data analysis techniques, this tool will help users find the best prices for Ted Baker dresses across different websites.
