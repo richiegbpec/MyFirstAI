@@ -5,12 +5,13 @@ This project aims to develop an AI-driven tool that compares the prices of Ted B
 
 Building AI course project
 
-Features
+# Features
 Web Scraping: Extract price data for Ted Baker dresses from various European online retailers.
 Data Cleaning: Clean and preprocess the scraped data to ensure accuracy and consistency.
 Price Comparison: Compare prices of the same dress across different retailers.
 Visualization: Provide visual representation of price differences to help users make informed decisions.
-Installation
+
+#Installation
 Clone the repository:
 
 sh
@@ -50,7 +51,7 @@ python scrape_prices.py
 Output
 A comparison report showing the prices of Ted Baker dresses from different retailers.
 
-How It Works
+# How It Works
 Web Scraping: The script scrapes price data from various European online retailers selling Ted Baker dresses.
 Data Cleaning: The collected data is cleaned and preprocessed to ensure accuracy.
 Price Comparison: The tool compares the prices of the same dress across different retailers.
@@ -66,7 +67,7 @@ Create a new Pull Request.
 License
 This project is licensed under the author
 
-Contact
+# Contact
 For any questions or suggestions, please feel free to reach out to the project maintainer:
 
 Name: Richa Tanwar
